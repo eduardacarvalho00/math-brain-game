@@ -1,5 +1,10 @@
 # math-brain-game
-Jogo de adivinhação 
+
+### #imercaoDev 
+Você consegue advinhar o numero de 0 a 10 que o nosso site escolheu? ele ira te dar dicas para facilitar a brincadeira ☺️
+
+
+
 
 
 ## 
